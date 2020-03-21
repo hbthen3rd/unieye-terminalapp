@@ -11,8 +11,8 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
 ### Recommended extensions:
 
-- [Zsh](https://www.zsh.org/)
-- [Oh My Zsh](https://ohmyz.sh/)
+- [Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
