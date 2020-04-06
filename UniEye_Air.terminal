@@ -146,15 +146,26 @@
 	cqIWGFhOU09iamVjdAgRGiQpMjdJTFFTV11kand+qKqssbzFzdAAAAAAAAABAQAAAAAA
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
+	<key>BackgroundAlphaInactive</key>
+	<real>0.63251896676300579</real>
+	<key>BackgroundBlur</key>
+	<real>0.12741600433526012</real>
+	<key>BackgroundBlurInactive</key>
+	<real>0.36731394806693746</real>
 	<key>BackgroundColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxARElVO
-	U1JHQlxOU0NvbG9yU3BhY2VWJGNsYXNzTxApMC4wNDMxMzcyNTQ5IDAuMDM5MjE1Njg2
-	MjcgMC4wNjI3NDUwOTgwNAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0Nv
-	bG9yohYYWE5TT2JqZWN0CBEaJCkyN0lMUVNXXWRqd36qrK6zvsfP0gAAAAAAAAEBAAAA
-	AAAAABkAAAAAAAAAAAAAAAAAAADb
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwVGSBVJG51bGzUDQ4PEBES
+	ExRVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlViRjbGFzc08Q
+	NjAuMDQzMTM3MjU0OSAwLjAzOTIxNTY4NjI3IDAuMDYyNzQ1MDk4MDQgMC44Njc0MzU4
+	NzQzABABgAKABNIWEBcYVE5TSUQQAYAD0hobHB1aJGNsYXNzbmFtZVgkY2xhc3Nlc1xO
+	U0NvbG9yU3BhY2WiHh9cTlNDb2xvclNwYWNlWE5TT2JqZWN00hobISJXTlNDb2xvcqIh
+	HwAIABEAGgAkACkAMgA3AEkATABRAFMAWQBfAGgAbgB7AJAAlwDQANIA1ADWANsA4ADi
+	AOQA6QD0AP0BCgENARoBIwEoATAAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAAB
+	Mw==
 	</data>
+	<key>BackgroundSettingsForInactiveWindows</key>
+	<true/>
 	<key>CursorBlink</key>
 	<true/>
 	<key>CursorColor</key>
@@ -239,7 +250,7 @@
 	<key>columnCount</key>
 	<integer>160</integer>
 	<key>name</key>
-	<string>UniEye</string>
+	<string>UniEye_Air</string>
 	<key>rowCount</key>
 	<integer>48</integer>
 	<key>shellExitAction</key>
